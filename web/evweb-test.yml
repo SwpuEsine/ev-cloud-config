@@ -146,5 +146,5 @@ pagehelper:
 #    root: debug
 
 test:
-  password: {ciper}b933e320ea8266c01135a91466f3f484488c102ef3dc3048cdcc5ac94f699607
+  password: '{ciper}e7cee6f78aced4cf1dc7425a682e464d1ad14b77c72544e3179df7f61a54514b%'
 
